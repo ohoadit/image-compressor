@@ -3,7 +3,12 @@ Download the code and compile, run the K-means.java file.
 
 Following are the outcomes for different values of K after running the algorithm on different images:
 
+
 Image: Koala.jpg
+
+Original size: 762.53 KB
+
+Compressed size: 152.5 KB, for K = 20
 
 K = 2
 ![k-2](https://user-images.githubusercontent.com/39697848/145734558-9f752300-6c11-469b-a3c1-25e83fce5285.jpg)
@@ -22,6 +27,10 @@ K = 20
 
 
 Image: Penguins.jpg
+
+Original size: 759.60 KB
+
+Compressed size: 117.26 KB, for K = 20
 
 K = 2
 ![p-2](https://user-images.githubusercontent.com/39697848/145734608-ef023103-275d-4dd7-94b6-064e0420c844.jpg)
